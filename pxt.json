@@ -4,7 +4,10 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "gatorEnvironment": "github:sparkfun/pxt-gator-environment#v1.0.13",
+        "gatorSoil": "github:sparkfun/pxt-gator-soil#v1.0.3",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
     },
     "files": [
         "main.blocks",
